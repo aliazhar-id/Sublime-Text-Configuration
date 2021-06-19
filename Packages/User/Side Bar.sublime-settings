@@ -1,0 +1,4 @@
+{
+	//one of this list: firefox, firefox-developer-edition, chrome, canary, chromium, opera, safari, ie, edge
+	"default_browser": "chrome",
+}

@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Color Highlight",
+		"Discord Rich Presence",
+		"Emmet",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"Package Control",
+		"SideBarEnhancements",
+	],
+}
