@@ -5,14 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"Color Highlight",
 		"Discord Rich Presence",
 		"Emmet",
-		"ESLint",
 		"HTMLBeautify",
 		"JsFormat",
 		"Package Control",
+		"Python 3",
 		"SideBarEnhancements",
 	],
 }

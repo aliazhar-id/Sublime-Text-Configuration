@@ -1,15 +1,15 @@
 {
 	"ignored_packages":
 	[
-		"ESLint",
 		"Vintage",
 	],
-	"theme": "Adaptive.sublime-theme",
-	"font_size": 12,
+	"theme": "Default Dark.sublime-theme",
+	"font_size": 13,
 	"remember_full_screen": true,
 	"line_padding_top": 5,
 	"line_padding_bottom": 5,
 	"translate_tabs_to_spaces": true,
 	"tab_size": 2,
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"open_files_in_new_window": false,
 }
