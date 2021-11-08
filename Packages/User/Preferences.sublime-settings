@@ -1,10 +1,11 @@
 {
 	"ignored_packages":
 	[
+		"Theme - Brogrammer",
 		"Vintage",
 	],
-	"theme": "Default Dark.sublime-theme",
-	"font_size": 13,
+	"theme": "auto",
+	"font_size": 15,
 	"remember_full_screen": true,
 	"line_padding_top": 5,
 	"line_padding_bottom": 5,
@@ -12,4 +13,6 @@
 	"tab_size": 2,
 	"color_scheme": "Mariana.sublime-color-scheme",
 	"open_files_in_new_window": false,
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
 }

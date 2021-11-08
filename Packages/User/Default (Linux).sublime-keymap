@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["ctrl+t"],
+    "command": "side_bar_new_file2"
+  },
+  {
+    "keys": ["f2"],
+    "command": "side_bar_rename"
+  },
+]
